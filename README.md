@@ -1,3 +1,6 @@
+
+A complete List of Emojis grouped into Categories starting from :
+
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
